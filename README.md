@@ -6,7 +6,7 @@ Monte Carlo pricing of a 2-Year USD Phoenix Autocall Note linked to the S&P 500�
 
 - 10,000,000 paths, daily time steps (Δt = 1/252), fully vectorised in NumPy.
 - Memory coupon implemented per Phoenix market convention.
-- Heston discretised with the Lord–Koekkoek–Van Dijk (2010) full-truncation scheme (Feller condition violated: 2κθ/ξ² = 0.48).
+- Heston discretised with the Euler Maruyama discretization and full-truncation scheme (Feller condition violated: 2κθ/ξ² = 0.48) following Lord et al.(2010).
 - Batched simulation reduces peak memory from ~40 GB to ~610 MB.
 - Seeded reproducibility (NumPy PCG-64, seed = 42).
 
