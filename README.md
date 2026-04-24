@@ -49,5 +49,6 @@ Lord, R., Koekkoek, R., & Van Dijk, D. (2010). *Quantitative Finance*, 10(2).
 
 ## Acknowledgements
 
-Submitted as coursework for the Advanced Program of Quantitative Finance and Risk Management at the Indian Institute of Management Ahmedabad (IIMA). Original group project (Group 2); this repository contains the version I authored.
+Submitted as coursework for the Advanced Program of Quantitative Finance and Risk Management at the Indian Institute of Management Ahmedabad (IIMA). Original group project (Group 2); 
+this repository contains the version I authored.
 
