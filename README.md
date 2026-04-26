@@ -1,4 +1,4 @@
-# Phoenix Autocall Pricing : Monte Carlo under GBM and Heston
+# Phoenix Autocall Pricing: Monte Carlo under GBM & Heston
 
 Monte Carlo pricing of a 2-Year USD Phoenix Autocall Note linked to the S&P 500® Index (ISIN XS2918085494, Morgan Stanley B.V.) under Geometric Brownian Motion (GBM) and the Heston stochastic volatility model.
 
