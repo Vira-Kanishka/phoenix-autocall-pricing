@@ -42,9 +42,9 @@ Runtime: approximately 10 minutes on a modern CPU (GBM ~2 min, Heston ~7 min).
 
 ## References
 
-Andersen, L. (2008). *Journal of Computational Finance*, 11(3).
-Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*. Springer.
-Heston, S. L. (1993). *Review of Financial Studies*, 6(2), 327–343.
+Andersen, L. (2008). *Journal of Computational Finance*, 11(3). <br>
+Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*. Springer. <br>
+Heston, S. L. (1993). *Review of Financial Studies*, 6(2), 327–343. <br>
 Lord, R., Koekkoek, R., & Van Dijk, D. (2010). *Quantitative Finance*, 10(2).
 
 ## Acknowledgements
